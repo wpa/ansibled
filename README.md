@@ -1,3 +1,3 @@
 # ansibled
 
-Ansible script to prepare Arch Linux on laptop.
+Ansible scripts to prepare Arch Linux on laptop.
