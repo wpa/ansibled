@@ -15,6 +15,8 @@
     - docker
     - cmus
     - nethogs
+    - openssh
+    - pssh
 
 # zsh and oh-my-zsh
 - name: install zsh
