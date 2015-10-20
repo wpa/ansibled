@@ -8,6 +8,7 @@
     user_home: "{{ lookup('env', 'HOME') }}"
     git_user_name: "Wojtek Padula"
     git_user_email: "wojciech.padula@gmail.com"
+    ansible_python_interpreter: "/usr/bin/env python2"
     role_basic_done: false
   roles:
     - basic
